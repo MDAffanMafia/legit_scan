@@ -21,4 +21,9 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/MDAffanMafia/legit_scan.git
    cd legit_scan
+2.Create a virtual environment (optional but recommended):
+   '''bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
 

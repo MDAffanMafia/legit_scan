@@ -1,7 +1,7 @@
 # legit_scan
-# Image Recognition Project
+# Legit Scan - Image Recognition Project
 
-This project is designed for image recognition using a deep learning model. It can detect whether an uploaded image is counterfeit or genuine.
+Legit Scan is an image recognition project that uses a deep learning model to detect whether uploaded images are counterfeit or genuine.
 
 ## Table of Contents
 
@@ -10,6 +10,7 @@ This project is designed for image recognition using a deep learning model. It c
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ## Installation
 
@@ -18,5 +19,6 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/image-recognition-project.git
-   cd image-recognition-project
+   git clone https://github.com/MDAffanMafia/legit_scan.git
+   cd legit_scan
+
